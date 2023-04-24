@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30df3c07.css",
+    "main.js": "/static/js/main.524e23cd.js",
+    "static/js/787.e86ceca7.chunk.js": "/static/js/787.e86ceca7.chunk.js",
+    "static/media/tyre-photo.jpg": "/static/media/tyre-photo.18be90b8f32f925587a0.jpg",
+    "static/media/pirelli.jpg": "/static/media/pirelli.c9ecd53b6d98ff53bf08.jpg",
+    "static/media/background.jpg": "/static/media/background.368df194ec3657d505e0.jpg",
+    "static/media/space.png": "/static/media/space.c41409096dc2fb862151.png",
+    "static/media/firestone.jpg": "/static/media/firestone.5c8dfc5e7b835972a7e1.jpg",
+    "index.html": "/index.html",
+    "static/media/cart.svg": "/static/media/cart.05dfd14f0943edf68c9a30788565c795.svg",
+    "static/media/star-fill.svg": "/static/media/star-fill.a473aa46e6b1207fe883cf417e936674.svg",
+    "static/media/lock-fill.svg": "/static/media/lock-fill.e596a357c88ada8b2b99fe8d7a3cd683.svg",
+    "static/media/person-fill.svg": "/static/media/person-fill.516b8bd021edff6a59a3672c8c83db18.svg",
+    "main.30df3c07.css.map": "/static/css/main.30df3c07.css.map",
+    "main.524e23cd.js.map": "/static/js/main.524e23cd.js.map",
+    "787.e86ceca7.chunk.js.map": "/static/js/787.e86ceca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30df3c07.css",
+    "static/js/main.524e23cd.js"
+  ]
+}
